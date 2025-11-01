@@ -1,5 +1,4 @@
 # install-docker-lengkap
-```bash
 Oke, Abim 😎 — kita bahas **cara install Docker lengkap di Ubuntu** (terbaru & clean).
 Langkah-langkah ini bisa kamu ikuti di **Ubuntu Desktop, Server, WSL**, atau **VM di GCP**.
 
@@ -131,4 +130,3 @@ docker compose version
 Kamu mau sekalian aku bantu buat *cek script otomatis* (1 file `.sh`) biar tinggal `bash install-docker.sh` aja?
 Bisa aku tulisin sekalian lengkap auto install + setup user.
 
-```
